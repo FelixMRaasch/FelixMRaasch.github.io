@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Subtitle
+subtitle: Mathematics Graduate · Wellington, NZ
 
 profile:
   align: right
@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, Here's some info about me.
+I studied Mathematics at the University of Edinburgh and now live in Wellington, New Zealand. Since moving here I've been finding my feet — taking on work wherever I could get it and teaching myself whatever was needed to do it properly. That's meant building Python automation tools, and then a mobile app from scratch, for a local retail company. Neither were things I'd done before.
+
+##### **This Site**
+
+This site is where I put work I'm proud of. The goal is to do things worth documenting.
