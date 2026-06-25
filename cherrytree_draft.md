@@ -27,6 +27,18 @@ Once the live data was integrated I shut down the AWS server. It had served its 
 
 ---
 
+## Suggested paragraph: "Translating back into the real world"
+
+Getting the software working was one thing. Getting it into my boss's hands was another. Simon thought of an app as something that just lives on a phone — he didn't know what a build was, or why I needed him to accept a TestFlight invite before he could install it. So I sideloaded the APK onto my own Android so I had something physical to put in front of him. Then I walked him through TestFlight on iOS and Google's closed testing track on Android, both of which required creating developer accounts, paying the fees, and navigating review processes I hadn't encountered before. Eventually I submitted to the App Store and Google Play properly. There were rejections — Apple flagged a missing privacy policy, Google wanted a privacy policy URL in the store listing — small things that felt enormous at the time because I didn't know where they'd end. But they ended. Both apps passed review. The first time I searched "Cherrytree" in the App Store and it came up was a strange moment. It looked like a real app because it was one.
+
+---
+
+## Suggested paragraph: Takeaways
+
+What I learned doing this isn't really about React Native or AWS or how to submit to the App Store. It's about what it actually means to build something in the real world. The code was maybe 30% of the work. The rest was figuring out what to build, convincing someone to let me build it, reading systems that weren't documented, and translating between what a non-technical person wanted and what a computer needed. That gap — between a human problem and a technical solution — is where most of the interesting work lives. AI tools made the writing part faster, but they didn't close that gap. Understanding it was still on me. That's the skill I came out of this with, and it's the one that transfers.
+
+---
+
 ## Structure notes for Felix's version:
 
 - **Opening** — keep the "can you code?" hook, already written and strong
